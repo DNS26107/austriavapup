@@ -1,0 +1,105 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color:beige; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+.top{
+    background-color: transparent;
+    height: 50px;
+    width: 100%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+.left{
+    background-color:cyan(255, 24, 24);
+    height: 800px;
+    width: 100%;
+    float: left;
+    font-size:38px;
+    color: black;
+}
+ 
+.bottom{
+    background-color:navy(222, 17, 109);
+    height: 500px;
+    width: 100%;
+    float: left;
+    font-size:38px;
+    color: black;
+    outline-color: black;
+}
+
+.right{
+    background-color:rgb(31, 201, 15);
+    height: 0px;
+    width: 0%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+.info{
+    background-color: white;
+    height: 1300px;
+    width: 35%;
+    float: left;
+font-size: 35px; 
+text-align: center;
+}
+ 
+
+
+.photo{
+    background-color: pink;
+    height: 1300px;
+    width: 65%;
+    float: left;
+  
+}
+
+.photo123{
+    background-color: white;
+    height: 1300px;
+    width: 35%;
+    float: left;
+    font-size: 38px;
+}
+
+.info2{
+background-color: white;
+height: 1300px;
+width: 65%;
+float: left;
+}
+
+.phto{
+    background-color: white;
+    height: 1300px;
+    width: 65%;
+    float: left;
+}
+
+.info0{
+
+    background-color: white;
+    height: 1300px;
+    width: 35%;
+    float: left;
+    font-size: 38px;
+}
+
+nav{
+    background-color: transparent;
+    width: fit-content;
+    height: 30px;
+    margin-left: 45%;
+}
+ul{
+    list-style:none;
+}
+li{
+    float: left;
+}
+li a{}
